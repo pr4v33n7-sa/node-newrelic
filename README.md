@@ -5,7 +5,7 @@
 
 This package instruments your application for performance monitoring with [New Relic](https://newrelic.com).
 
-In order to take full advantage of this package, make sure you have a [New Relic account](https://newrelic.com) before starting. 
+In order to take full advantage of this package, make sure you have a [New Relic account](https://newrelic.com) before starting. Sweet
 
 As with any instrumentation tool, please test before using in production.
 
